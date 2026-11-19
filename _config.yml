@@ -1,0 +1,9 @@
+# 小船大海 / Small Boat, Big Sea — devlog site
+# Minimal Jekyll + minima. Chinese is canonical; English lives under /en/.
+# No extra plugins — minima only, as GitHub Pages serves it by default.
+title: "小船大海 / Small Boat, Big Sea"
+description: "A tiny team — a producer, an AI TL, and an art director — seriously making a sailing game."
+theme: minima
+url: "https://twobrainsonepen.github.io"
+baseurl: "/small-boat-big-sea"
+lang: zh
