@@ -3,7 +3,7 @@ layout: home
 lang: en
 ---
 
-<div class="home-banner"><img src="{{ "/assets/g1-fleet-banner-5b33a293.jpg" | relative_url }}" alt="A fleet of five sailing ships, G1 doodle style"><p class="home-banner-caption">Banner: a G1 doodle-style sample (AI-generated)</p></div>
+<div class="home-banner"><img src="{{ "/assets/g1-fleet-banner-5b33a293.jpg" | relative_url }}" alt="A fleet of five sailing ships, picture-book doodle style"><p class="home-banner-caption">Banner illustration (AI-generated)</p></div>
 
 A tiny team — a producer, an AI TL, and an art director — seriously making a sailing game: *Sea of a Thousand Sails*.
 

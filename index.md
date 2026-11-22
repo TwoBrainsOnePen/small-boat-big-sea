@@ -3,7 +3,7 @@ layout: home
 lang: zh
 ---
 
-<div class="home-banner"><img src="{{ "/assets/g1-fleet-banner-5b33a293.jpg" | relative_url }}" alt="五艘帆船组成的舰队，G1 绘本涂鸦风格"><p class="home-banner-caption">横幅：G1 绘本涂鸦样张（AI 生成）</p></div>
+<div class="home-banner"><img src="{{ "/assets/g1-fleet-banner-5b33a293.jpg" | relative_url }}" alt="五艘帆船组成的舰队，绘本涂鸦风格"><p class="home-banner-caption">横幅：AI 生成插画</p></div>
 
 一支很小的团队——制作人、AI 执行负责人（TL）、美术总监——在认真做一款航海游戏：《千帆之海》。
 
