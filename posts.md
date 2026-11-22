@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 全部文章
+lang: zh
 permalink: /posts/
 ---
 

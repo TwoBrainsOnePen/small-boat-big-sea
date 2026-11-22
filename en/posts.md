@@ -1,6 +1,7 @@
 ---
 layout: page
 title: All Posts
+lang: en
 permalink: /en/posts/
 ---
 
