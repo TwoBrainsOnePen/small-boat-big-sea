@@ -1,0 +1,110 @@
+---
+---
+
+@import "minima";
+
+/* 小船大海 · D 版：羊皮纸海图 + G1 舰队横幅（2026-11-21 定稿） */
+
+body {
+  background-color: #ece0bd;
+  color: #4a3826;
+  font-family: Georgia, "Songti SC", "STSong", "SimSun", serif;
+}
+
+.site-header {
+  background-color: #f3e7c8;
+  border-top: none;
+  border-bottom: 2px solid #8a6d3b;
+}
+
+.site-title, .site-title:visited {
+  color: #4a3826;
+  letter-spacing: 2px;
+}
+
+.site-nav .page-link {
+  color: #6b5326;
+}
+
+.site-nav .menu-icon > svg {
+  fill: #4a3826;
+}
+
+.page-content {
+  background-color: #faf3e1;
+}
+
+.site-footer {
+  background-color: #f3e7c8;
+  border-top: 2px solid #8a6d3b;
+}
+
+.footer-heading {
+  color: #4a3826;
+  letter-spacing: 2px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #4a3826;
+}
+
+a, a:visited {
+  color: #6b5326;
+}
+
+a:hover {
+  color: #4a3826;
+}
+
+.home ul {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.home li {
+  padding: 7px 0;
+  border-bottom: 1px dashed #cbb37e;
+}
+
+.home li:last-child {
+  border-bottom: none;
+}
+
+.rule-diamond {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: #8a6d3b;
+  margin: 18px 0 4px;
+}
+
+.rule-diamond::before,
+.rule-diamond::after {
+  content: "";
+  flex: 1;
+  border-top: 1px solid #b89b5e;
+}
+
+.soon-note {
+  text-align: center;
+  color: #8a6d3b;
+}
+
+.home-banner {
+  margin: 0 0 20px;
+}
+
+.home-banner img {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 1px solid #b89b5e;
+}
+
+.home-banner-caption {
+  font-size: 12.5px;
+  color: #8a6d3b;
+  text-align: center;
+  margin: 6px 0 0;
+}
